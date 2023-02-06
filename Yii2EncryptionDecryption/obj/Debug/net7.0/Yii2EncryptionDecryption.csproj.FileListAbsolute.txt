@@ -1,0 +1,15 @@
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\bin\Debug\net7.0\Yii2EncryptionDecryption.exe
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\bin\Debug\net7.0\Yii2EncryptionDecryption.deps.json
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\bin\Debug\net7.0\Yii2EncryptionDecryption.runtimeconfig.json
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\bin\Debug\net7.0\Yii2EncryptionDecryption.dll
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\bin\Debug\net7.0\Yii2EncryptionDecryption.pdb
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.csproj.AssemblyReference.cache
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.AssemblyInfoInputs.cache
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.AssemblyInfo.cs
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.dll
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\refint\Yii2EncryptionDecryption.dll
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.pdb
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\Yii2EncryptionDecryption.genruntimeconfig.cache
+C:\Users\dlewi\Documents\Software Projects\Yii2EncryptionDecryption\Yii2EncryptionDecryption\obj\Debug\net7.0\ref\Yii2EncryptionDecryption.dll
